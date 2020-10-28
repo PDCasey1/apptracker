@@ -1,4 +1,4 @@
-# Window Tracker
+# App Tracker
 
 I'm developing a simple program in Python to track how much time I spend using Sublime Text Editor, mainly as a way to learn programming, but following a strong preference I have to developing useful code (as opposed to developing a simple game as a learning tool, for example).
 
